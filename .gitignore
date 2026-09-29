@@ -1,0 +1,8 @@
+work/
+results/
+.nextflow/
+.nextflow.log*
+.DS_Store
+*.log
+*.tmp
+*.temp
